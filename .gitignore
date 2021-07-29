@@ -1,0 +1,5 @@
+build
+node_modules
+.env
+src/config/azureBlobs.ts
+docs
